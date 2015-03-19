@@ -1,0 +1,15 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul>
+        <li ng-repeat="contact in contacts">
+          Name: <input type="text" name="username" ng-model="contact.name" ng-blur="updateData()"/><br>
+		  Age: <input type="text" name="age" ng-model="contact.age"/>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
