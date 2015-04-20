@@ -20,18 +20,15 @@
         "age": 30, 
         "name": "Tom",
 		"Department":"Mechanical",
-<<<<<<< HEAD
-		"Location":"Oklahoma"
+		"Location":"Oklahoma",
+		"City":"Encore"
     },
 	{
 	    "id": "4", 
         "age": 20, 
         "name": "Rodrigo",
 		"Department":"Software",
-		"Location":"CA"
-=======
-		"Location":"Oklahoma",
-		"City":"xyz"
->>>>>>> 8295ec5c01b0852aec735e9964ec29da7cc6eeda
+		"Location":"CA",
+		"City":"SanFrancisco"
     }
 ]
