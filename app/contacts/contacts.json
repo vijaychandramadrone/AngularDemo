@@ -1,38 +1,38 @@
 [
     {
-	    "id": "1", 
-        "age": 20, 
-        "name": "Joe",
+	    "Id": "1", 
+        "Age": 20, 
+        "Name": "Joe",
 		"Department":"Software",
-		"Location":"Texas",
+		"Address": "abcd",
 		"City":"San Antonio",
-		"Address": "abcd"
+		"Location":"Texas"
     }, 
     {
-	    "id": "2", 
-        "age": 10, 
-        "name": "Sam",
+	    "Id": "2", 
+        "Age": 10, 
+        "Name": "Sam",
 		"Department":"Civil",
-		"Location":"Illinois",
+		"Address": "abcd",
 		"City":"Bloomington",
-		"Address": "abcd"
+		"Location":"Illinois"
     }, 
     {
-	    "id": "3", 
-        "age": 30, 
-        "name": "Tom",
+	    "Id": "3", 
+        "Age": 30, 
+        "Name": "Tom",
 		"Department":"Mechanical",
-		"Location":"Oklahoma",
+		"Address": "abcd",
 		"City":"Encore",
-		"Address": "abcd"
+		"Location":"Oklahoma"
     },
 	{
-	    "id": "4", 
-        "age": 20, 
-        "name": "Rodrigo",
+	    "Id": "4", 
+        "Age": 20, 
+        "Name": "Rodrigo",
+		"Address": "abcd",
 		"Department":"Software",
-		"Location":"CA",
 		"City":"SanFrancisco",
-		"Address": "abcd"
+		"Location":"CA"
     }
 ]
