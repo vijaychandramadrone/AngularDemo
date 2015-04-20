@@ -1,17 +1,18 @@
+<p><b>This is the place for contact information of all employees</b></p>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-10">
       <!--Body content-->
-
-      <ul>
+       <ul>
         <li ng-repeat="contact in contacts">
-          Name: <input type="text" name="username" ng-model="contact.name" ng-blur="updateData()"/><br>
-		  Age: <input type="text" name="age" ng-model="contact.age"/><br>
+          Name: <input type="text" name="username" ng-model="contact.Name" ng-blur="updateData()"/><br>
+		  Age: <input type="text" name="age" ng-model="contact.Age"/><br>
 		  Department: <input type="text" name="department" ng-model="contact.Department"/><br>
+		  Address: <input type="text" name="location" ng-model="contact.Address"/><br>
 		  City: <input type="text" name="city" ng-model="contact.City"/><br>
-		  Location: <input type="text" name="location" ng-model="contact.Location"/>
+		  Location: <input type="text" name="location" ng-model="contact.Location"/><br>
         </li>
-      </ul>
+		</ul
 
     </div>
   </div>
