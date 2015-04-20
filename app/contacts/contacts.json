@@ -5,7 +5,8 @@
         "name": "Joe",
 		"Department":"Software",
 		"Location":"Texas",
-		"City":"San Antonio"
+		"City":"San Antonio",
+		"Address": "abcd"
     }, 
     {
 	    "id": "2", 
@@ -13,7 +14,8 @@
         "name": "Sam",
 		"Department":"Civil",
 		"Location":"Illinois",
-		"City":"Bloomington"
+		"City":"Bloomington",
+		"Address": "abcd"
     }, 
     {
 	    "id": "3", 
@@ -21,7 +23,8 @@
         "name": "Tom",
 		"Department":"Mechanical",
 		"Location":"Oklahoma",
-		"City":"Encore"
+		"City":"Encore",
+		"Address": "abcd"
     },
 	{
 	    "id": "4", 
@@ -29,6 +32,7 @@
         "name": "Rodrigo",
 		"Department":"Software",
 		"Location":"CA",
-		"City":"SanFrancisco"
+		"City":"SanFrancisco",
+		"Address": "abcd"
     }
 ]
