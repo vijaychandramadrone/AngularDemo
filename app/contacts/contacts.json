@@ -3,7 +3,7 @@
 	    "Id": "1", 
         "Age": 20, 
         "Name": "Joe",
-		"Department":"Software",
+		"Department":"Software Engineer",
 		"Address": "abcd",
 		"City":"San Antonio",
 		"Location":"Texas"
@@ -12,7 +12,7 @@
 	    "Id": "2", 
         "Age": 10, 
         "Name": "Sam",
-		"Department":"Civil",
+		"Department":"Civil Engineer",
 		"Address": "abcd",
 		"City":"Bloomington",
 		"Location":"Illinois"
@@ -21,7 +21,7 @@
 	    "Id": "3", 
         "Age": 30, 
         "Name": "Tom",
-		"Department":"Mechanical",
+		"Department":"Mechanical Engineer",
 		"Address": "abcd",
 		"City":"Encore",
 		"Location":"Oklahoma"
@@ -31,7 +31,7 @@
         "Age": 20, 
         "Name": "Rodrigo",
 		"Address": "abcd",
-		"Department":"Software",
+		"Department":"Software Engineer",
 		"City":"SanFrancisco",
 		"Location":"CA"
     },
@@ -39,7 +39,7 @@
 	    "Id": "5", 
         "Age": 20, 
         "Name": "Mark",
-		"Department":"Software",
+		"Department":"Software Engineer",
 		"Address": "abcd",
 		"City":"San Antonio",
 		"Location":"Texas"
