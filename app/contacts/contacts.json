@@ -4,20 +4,23 @@
         "age": 20, 
         "name": "Joe",
 		"Department":"Software",
-		"Location":"Texas"
+		"Location":"Texas",
+		"City":"San Antonio"
     }, 
     {
 	    "id": "2", 
         "age": 10, 
         "name": "Sam",
 		"Department":"Civil",
-		"Location":"Illinois"
+		"Location":"Illinois",
+		"City":"Bloomington"
     }, 
     {
 	    "id": "3", 
         "age": 30, 
         "name": "Tom",
 		"Department":"Mechanical",
+<<<<<<< HEAD
 		"Location":"Oklahoma"
     },
 	{
@@ -26,5 +29,9 @@
         "name": "Rodrigo",
 		"Department":"Software",
 		"Location":"CA"
+=======
+		"Location":"Oklahoma",
+		"City":"xyz"
+>>>>>>> 8295ec5c01b0852aec735e9964ec29da7cc6eeda
     }
 ]
