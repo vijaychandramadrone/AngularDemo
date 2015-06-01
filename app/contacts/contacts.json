@@ -44,7 +44,6 @@
 		"City":"San Antonio",
 		"Location":"Texas"
     },
-    ,
 	{
 	    "Id": "6", 
         "Age": 20, 
@@ -53,8 +52,7 @@
 		"Address": "abcd",
 		"City":"San Antonio",
 		"Location":"Texas"
-    }
-	,
+    },
 	{
 	    "Id": "7", 
         "Age": 26, 
