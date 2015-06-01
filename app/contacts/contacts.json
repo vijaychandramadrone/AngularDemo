@@ -88,14 +88,5 @@
 		"Address": "abcd",
 		"City":"San Antonio",
 		"Location":"Illinois"
-    },
-	{
-	    "Id": "11", 
-        "Age": 37, 
-        "Name": "David Peter",
-		"Department":"Software Engineer",
-		"Address": "abcd",
-		"City":"San Antonio",
-		"Location":"Illinois"
     }
 ]
